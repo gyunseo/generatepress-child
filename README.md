@@ -1,2 +1,2 @@
 # generatepress-child
-Generate Press Child Theme
+GeneratePress Child Theme
