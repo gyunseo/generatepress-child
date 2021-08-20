@@ -2,3 +2,7 @@
  Theme Name:   GeneratePress Child
  Template:     generatepress
 */
+
+.home.blog .paging-navigation {
+    display: none;
+}
