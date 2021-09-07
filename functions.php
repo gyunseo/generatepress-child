@@ -10,7 +10,7 @@ function my_theme_enqueue_styles() {
 add_filter( 'generate_copyright','tu_custom_copyright' );
 function tu_custom_copyright() {
     ?>
-    Copyright &copy; 2021. 균서닷컴
-    <?php
+    Copyright &copy; 2021. 균서닷컴 
+    <?php // this changes the copyright message
 }
 ?>

@@ -1,6 +1,9 @@
 # generatepress-child
 ## GeneratePress Child Theme
+==================================================
+### Genteratepess Child Theme Revision 09/08 04:46
 
+#### Added Some Comments on Codes
 ==================================================
 ### Generatepress Child Theme Revision 08/21 00:19
 
